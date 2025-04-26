@@ -16,7 +16,7 @@ https://tvportalmx.com:3796/live/canal5live.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="RECOMENDADOS", Azteca 7
-https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/fd301473-891c-41ba-9c48-142a223555cb:MRN2/master.m3u8?aid=5fea09a071a9945deebf5f7c&uid=yBGPR9vCSH5s16zOJC1bZLnFJqFlzDr1&sid=wPz0YgmP9G6oT0pRocecynvtMLyjPHIm&pid=geizlocxREucHsVBgdX9ulhcE3Xcsnu4&ref=&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=fd301473-891c-41ba-9c48-142a223555cb%3AMRN2&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1745715108694&ot=jMGf_i34PoT1l3e6XJrdjw&proto=https&pz=us
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8?uid=yBGPR9vCSH5s16zOJC1bZLnFJqFlzDr1&sid=wPz0YgmP9G6oT0pRocecynvtMLyjPHIm&pid=S1IwyiYKC9AuSbggVvzqH4c0Dwc9M8uR&an=screen&at=web-app&av=v6.0.158&ref=&res=360x616&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=e6e23c31-d016-49d8-93b5-f9446f473e48:MRN2
 #EXTINF:-1 tvg-id="NU9VE.mx" tvg-name="Nu9ve" tvg-logo=""  group-title="RECOMENDADOS", Nu9ve
 hls:https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="RECOMENDADOS", TUDN MX
