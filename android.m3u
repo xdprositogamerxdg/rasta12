@@ -16,7 +16,7 @@ https://tvportalmx.com:3796/live/canal5live.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://assets.wikiwand.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Azteca72024.png&w=640&q=70"  group-title="RECOMENDADOS", Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8?uid=yBGPR9vCSH5s16zOJC1bZLnFJqFlzDr1&sid=JCmzmeprprjHszydRU2Lt5L7dkjU1f3z&pid=Fw6whFpDQL4gv6GwyAsJsa4AQFdyLgIq&an=screen&at=web-app&av=v6.0.158&ref=https%3A%2F%2Fapp.tvmexico.net%2F&res=0x0&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=ed80c239-a2f5-4180-afde-dd833a262c56:MRN2
+mdstrm.com/live-stream/609ad46a7a441137107d7a81
 #EXTINF:-1 tvg-id="NU9VE.mx" tvg-name="Nu9ve" tvg-logo=""  group-title="RECOMENDADOS", Nu9ve
 hls:https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="RECOMENDADOS", TUDN MX
